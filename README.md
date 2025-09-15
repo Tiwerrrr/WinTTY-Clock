@@ -1,6 +1,6 @@
 # WinTTY Clock – TTY-style Console Clock for Windows
-🕒 Элегантные консольные часы для Windows в стиле TTY с поддержкой ASCII-арта и настраиваемых цветов
-[![Download WinTTY Clock](https://img.shields.io/github/v1/release/Tiwerrrr/clock?label=Download&style=for-the-badge)](https://github.com/Tiwerrrr/clock/releases/latest/download/clock.exe)
+
+[![Download WinTTY Clock](https://img.shields.io/github/v1/release/Tiwerrrr/WinTTY-Clock?label=Download&style=for-the-badge)](https://github.com/Tiwerrrr/WinTTY-Clock/releases/latest/download/clock.exe)
 
 Простые консольные часы для Windows, как в Linux:
 
@@ -42,7 +42,7 @@ clock #FF00FF -s -ascii  # ASCII-часы фиолетовые с секунда
 
 ## Установка
 
-1. [Скачайте Clock.exe](https://github.com/Tiwerrrr/clock/releases/latest/download/clock.exe) с релизов GitHub
+1. [Скачайте Clock.exe](https://github.com/Tiwerrrr/WinTTY-Clock/releases/latest/download/clock.exe) с релизов GitHub
 
 2. Скопируйте его в любую папку из PATH, например:
 
